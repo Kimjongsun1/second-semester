@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\202315004_kimjongsun\20230904 - 4\20230904 - 4\main.cpp(10,2): error C2664: 'int fputc(int,FILE *)': 인수 1을(를) 'const char [12]'에서 'int'(으)로 변환할 수 없습니다.
+D:\202315004_kimjongsun\20230904 - 4\20230904 - 4\main.cpp(10,8): message : 이 변환이 가능한 컨텍스트가 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stdio.h(221,26): message : 'fputc' 선언을 참조하십시오.
+D:\202315004_kimjongsun\20230904 - 4\20230904 - 4\main.cpp(10,2): message : 인수 목록 '(const char [12], FILE *)'을(를) 일치시키는 동안
